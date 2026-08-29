@@ -1,19 +1,21 @@
-# 🎓 SQI Project
+# SQI Project
+
+## Overview
 
 A simple website built with HTML and CSS as part of coursework at SQI College of ICT.
 
-## 🧰 Tech Stack
+## Technology Stack
 
-`HTML5` `CSS3`
+HTML5, CSS3
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Tech-Guru19/Sqi_project.git
 cd Sqi_project
-# open index.html in your browser (or npm install && npm run dev for React/Node projects)
+# Open index.html in your browser, or run npm install && npm run dev for React and Node projects
 ```
 
-## 👩‍💻 Author
+## Author
 
-**[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)**
+[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)
